@@ -1,10 +1,30 @@
  @media screen and (max-width : 920px) {
 
+	.name{
+		font-size: 14em;
+	}
+
 	
 }
 
 @media screen and (max-width: 700px) {
+	.proyecto{
+		height: 6.5em!important;
+		width: 6.5em!important;
+	}
 
+	.marg_cita{
+		margin-left: -3em!important;
+		font-size: 0.5em;
+	}
+	
+	.extra_mg_lf{
+		margin-left: -2em;
+	}
+	.extra_padd{
+		padding-left: -6em;
+	}
+	
 	.icon-bar{
 		background-color: #F50087 ;
 	}
@@ -43,9 +63,19 @@
 	.margin_left_r{
 		margin-left: .2em ;
 	}
+	.mg_lf{
+		margin-left: -4em;
+	}
 	
+} 
 
+
+.marg_menu{
+	margin-top: -6em !important;
+	padding-top:  -6em !important;
 }
+
+
 
 nav{
 	background-color: #461766 ;
@@ -66,7 +96,7 @@ body{
 	color: #009AF0;
 }
 
-h3{
+h3,h5{
 	padding-top: 2em;
 }
 
@@ -99,6 +129,10 @@ h3{
 	margin-top: 6%;
 	padding: 2em;
 }
+.marg_top{
+		margin-top:5em ;
+		margin-bottom: -3em;
+	}
 
 
 /*BACKGROUNDS*/
@@ -143,6 +177,7 @@ h3{
 	margin: -2em;
 }
 
+
 .cita{
 	padding-top: 6%;
 	font-size: 1.5em;
@@ -157,6 +192,10 @@ h3{
 .marg_slide{
 	margin-top: 5% !important;
 }
+
+.marg_slide_proyectos{
+	margin-top: 25% !important;
+}
 /*PARA MIS SKILS Y BOTÓN CV*/
 
 
@@ -170,7 +209,10 @@ h3{
 }
 
 .pad_boton{
-	margin-right: 10em !important;
+	margin-left: 25em !important;
+	padding: 2em;
+	margin-bottom: 2em;
+	margin-top: -3em
 }
 
 /*.vert{
@@ -183,6 +225,9 @@ h3{
 
 .mySlides {display:none}
 .demo {cursor:pointer}
+
+
+/*para mi boton cv*/
 
 
 
@@ -227,10 +272,18 @@ hr{
 
 .mySlides {
 	display:none;
-	margin-top: 10em ;
-	margin-bottom: 10em;
+	margin-top: 5em ;
+	margin-bottom: 5em;
+	height: 13em;
+	width: 21em;
 
 }
+
+.cuarto_poyecto{
+	height:16.5em ;
+}
+
+
 
 .padd-tx{
 		padding-left: 3%;
@@ -257,3 +310,7 @@ hr{
 	margin-left: 38em !important;
 	width: 5em;
 }
+
+
+
+	
