@@ -44,8 +44,13 @@ function carousel() {
 }
 
 
-// $(function(){
-//   $('[data-toggle="tooltip"]').tooltip()
+$(function(){
+  $('[data-toggle="tooltip"]').tooltip()
+});
+
+$(function(){
+  $('[data-toggle="popover"]').popover()
+});
 
 
 // PARA MI IMAGEN PRINCIPAL
