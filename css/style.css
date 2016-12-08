@@ -21,7 +21,7 @@ nav{
 }
 /*fondo de pantalla*/
  .parallax2{
-	background-image: url("../images/escritorio.jpg");
+	background-image: url("../images/fondos/escritorio.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -48,7 +48,7 @@ nav{
  }
 /*fondo de pantalla*/
 .back-proyectos{
-	background-image: url("../images/cafe.jpg");
+	background-image: url("../fondos/images/cafe.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -79,7 +79,7 @@ nav{
 }
 /*fondo de pantalla*/
 .back-contactame{
-	background-image: url("../images/pluma.jpg");
+	background-image: url("../fondos/images/pluma.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
