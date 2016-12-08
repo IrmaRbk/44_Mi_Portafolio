@@ -53,6 +53,8 @@ $(function(){
 });
 
 
+
+
 // PARA MI IMAGEN PRINCIPAL
 
 
@@ -67,10 +69,6 @@ $(function(){
     //         scrollTop: $("body").offset().top
     //     }, 500);
     // });
-
-
-
-
 
 
 // $(document).ready(function(
