@@ -1,4 +1,4 @@
-/*fonts*/
+fonts*/
 h1, h2{
 	font-family: 'Amaranth', sans-serif !important;
 	font-size: 3em !important;
@@ -19,6 +19,7 @@ nav{
 .icon-bar {
 	background-color: #E05A0D!important;
 }
+/*fondo de pantalla*/
  .parallax2{
 	background-image: url("../images/escritorio.JPG");
 	background-attachment: fixed;
@@ -45,7 +46,7 @@ nav{
  	border-top: 3px solid #bd624b;
  	border-bottom: 3px solid #bd624b;
  }
-
+/*fondo de pantalla*/
 .back-proyectos{
 	background-image: url("../images/cafe.JPG");
 	background-position: center;
@@ -76,6 +77,7 @@ nav{
 .m-top-medium {
 	padding: 5% 0%;
 }
+/*fondo de pantalla*/
 .back-contactame{
 	background-image: url("../images/pluma.JPG");
 	background-position: center;
@@ -225,4 +227,4 @@ background-color:  rgba(249, 57, 9, 0.7);
 transition-delay:.2s;
 }
 
-/*_________*/
+/*_________
