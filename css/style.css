@@ -48,7 +48,7 @@ nav{
  }
 /*fondo de pantalla*/
 .back-proyectos{
-	background-image: url("../fondos/images/cafe.jpg");
+	background-image: url("../images/fondos/cafe.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -79,7 +79,7 @@ nav{
 }
 /*fondo de pantalla*/
 .back-contactame{
-	background-image: url("../fondos/images/pluma.jpg");
+	background-image: url("../images/fondos/pluma.jpg");
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
